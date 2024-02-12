@@ -33,4 +33,4 @@
 
 
   ### Data set
-- A data set taken fropm **Kaggle.com** 
+- Source: **Kaggle.com** 
