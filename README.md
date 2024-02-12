@@ -4,10 +4,10 @@
 </p>
 
 ### You will learn
--  how to create BAN on dashboards
--  how to create one filter to multiple sheet on the dashboard
--  how to create parameters for filtering multiple dimensions
--  how to create a filter to select TOP
+-  how to create **BAN** on dashboards
+-  how to create **one filter** to multiple sheet on the dashboard
+-  how to create parameters for filtering **multiple dimensions**
+-  how to create a filter to select **TOP**
 
   <br>
 
@@ -23,6 +23,14 @@
   <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/dashboard_sales_map1.png" width="1000"/>
 </a>
 
+ <br>
+ 
+### Check out the raw files in the folder 📂⬆️
+### Check out the dashboards on Tablea Public link
+
+|[Click here](https://public.tableau.com/app/profile/jamsran.davaajav/vizzes/)|
+|---|
+
 
   ### Data set
-- A data set taken fropm **Kaggle** 
+- A data set taken fropm **Kaggle.com** 
