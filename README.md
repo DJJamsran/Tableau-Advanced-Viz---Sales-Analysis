@@ -14,7 +14,7 @@
   
 ### Sales Performance Insights 
 <a target="">
-  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/dashboard_sales_analysis.png" width="1000"/>
+  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/dashboard_HE.png" width="1000"/>
 </a>
 
  <br>
