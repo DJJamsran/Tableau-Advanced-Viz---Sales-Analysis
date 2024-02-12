@@ -5,8 +5,8 @@
 
 ### You will learn
 -  how to create **BAN** on dashboards
--  how to create **one filter** to multiple sheet on the dashboard
--  how to create parameters for filtering **multiple dimensions**
+-  how to create **ONE FILTER** to multiple sheet on the dashboard
+-  how to create parameters for filtering **MULTIPLE DIMENSIONS**
 -  how to create a filter to select **TOP**
 
   <br>
