@@ -4,9 +4,10 @@
 </p>
 
 ### You will learn
--  how to use BAN on dashboards
--  how to use one filter to multiple sheet on the dashboard
--  how to use parameters for filtering multiple dimensions
+-  how to create BAN on dashboards
+-  how to create one filter to multiple sheet on the dashboard
+-  how to create parameters for filtering multiple dimensions
+-  how to create a filter to select TOP
 
   <br>
 
@@ -16,6 +17,11 @@
   <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/dashboard_sales_analysis.png" width="1000"/>
 </a>
 
+ <br>
+ 
+ <a target="">
+  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/dashboard_sales_map1.png" width="1000"/>
+</a>
 
 
   ### Data set
